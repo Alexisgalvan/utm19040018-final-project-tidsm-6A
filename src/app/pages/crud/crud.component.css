@@ -109,13 +109,13 @@ body {
 }
 
 .card-header {
-  background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+  background-image: linear-gradient(163deg, #0d0d0e 0%, #3700ff 100%);
   text-align: center;
 }
 .card {
   background: transparent;
-  border: 2px solid #07ff07;
-  box-shadow: 2px 2px 15px #07ff07 inset;
+  border: 2px solid #020202;
+  box-shadow: 2px 2px 15px #000000 inset;
 }
 /* From uiverse.io */
 
